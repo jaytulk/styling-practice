@@ -6,6 +6,10 @@ import "./App.css";
 /*
   Replicate the styles from:
   https://reactjs.org/docs/getting-started.html
+
+  A great approach is to use flexbox to position your elements.
+  CSS Tricks has the go-to guide on using it:
+  https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 */
 
 const App = () => {
