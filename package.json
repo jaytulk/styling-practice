@@ -1,7 +1,7 @@
 {
   "name": "styling-practice",
   "version": "1.0.0",
-  "description": "",
+  "description": "A small application to practice working with CSS",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
